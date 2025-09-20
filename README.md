@@ -29,7 +29,6 @@ Database: MySQL (via phpMyAdmin / XAMPP)
 
 Server: Apache (XAMPP Localhost)
 
-📂 Project Structure
 Social-Network/
 │
 ├── db/                 # SQL schema & migrations
@@ -47,6 +46,7 @@ Social-Network/
 │   └── config.php      # DB connection & session
 │
 └── README.md           # Project documentation
+
 
 ⚙️ Setup Instructions
 1. Install XAMPP
